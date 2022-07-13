@@ -20,4 +20,7 @@ void main(List<String> arguments) {
   myText = myNumber.toString();
 
   print(myText);
+
+  String name = "Taalai";
+  print('Your name is $name');
 }
